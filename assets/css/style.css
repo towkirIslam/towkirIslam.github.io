@@ -41,7 +41,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lobster', cursive;
     font-weight: 400;
 }
 
@@ -117,7 +117,7 @@ a:focus {
     font-weight: 800;
     font-size: 38px;
     margin-bottom: 10px;
-    font-family: Raleway, sans-serif;
+    font-family: 'Lobster', cursive;
 }
 
 h5.subtitle {
